@@ -1,5 +1,5 @@
 # TV, halftime shows, and the Big Game- Super Bowl Project
-This project is a [DataCamp](https://datacamp.com) Project which is built with the skills learnt from **Intermediate Python for Data Science**.
+This project is a [DataCamp](https://datacamp.com) Project which is built with the skills learnt from **Intermediate Python for Data Science** course from DataCamp.
 #### In this project, we are going to answer questions like:
 -What are the most extreme game outcomes?
 -How does the game affect television viewership?
